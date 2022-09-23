@@ -1,0 +1,4 @@
+source_image_path: './source/FaceMaskDetectionDataset/Medical mask/Medical mask/Medical Mask/images/'
+dest_image_path: './destination/FaceMaskDetectionDataset/'
+thresh: 0.6
+face_shape: [112, 112]
